@@ -1,9 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;About me </h3>
+<h3> 👨: &nbsp;About me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🔍 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Curse  **Software Developer** on <a href="[link da sua faculdade](https://ustm.ac.mz/index.php/en)">USTM</a>.
 - 💼 &nbsp; working as **Full Stack DEveloper**  
 - 🌱 &nbsp; Learning more about **FrontEnd TECHNOLOGIES**.
