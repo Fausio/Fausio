@@ -57,4 +57,4 @@
 
 [![Linkedin:Fausio Matsinhe](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-fausio@Live.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fausio@live.com)](mailto:fausio@live.com)
-[![GitHub Fausio Matsinhe ]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/Fausio))
+[![GitHub Fausio Matsinhe ]( https://img.shields.io/github/followers/fausio?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/Fausio))
