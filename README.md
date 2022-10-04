@@ -56,5 +56,5 @@
 <h3> :earth_americas: &nbsp;To find me: </h3> 
 
 [![Linkedin:Fausio Matsinhe](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto: fausio@live.com)](mailto:fausio@live.com)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fausio@live.com)](mailto:fausio@live.com)
 [![GitHub Fausio Matsinhe ]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/Fausio))
