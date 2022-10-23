@@ -6,13 +6,13 @@
 - 🔍 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Curse  **Software Developer** on <a href="[link da sua faculdade](https://ustm.ac.mz/index.php/en)">USTM</a>.
 - 💼 &nbsp; working as **Full Stack DEveloper**  
-- 🌱 &nbsp; Learning more about **FrontEnd TECHNOLOGIES**.
+- 🌱 &nbsp;  Always  **learning**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
 **Applications and Data**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C#](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
