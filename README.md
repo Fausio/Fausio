@@ -8,6 +8,15 @@
 - 💼 &nbsp; working as **Full Stack DEveloper**  
 - 🌱 &nbsp;  Always  **learning**.
 
+
+<br/>
+
+<a href="https://github.com/Fausio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fausio&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
 <h3> :rocket: &nbsp;My Skills </h3>
 
 **Applications and Data**
@@ -84,13 +93,7 @@
 **Design**
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-<br/>
 
-<a href="https://github.com/Fausio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fausio&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
 
 <h3> :earth_americas: &nbsp;To find me: </h3> 
 
