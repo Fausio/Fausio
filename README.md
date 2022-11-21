@@ -5,7 +5,7 @@
 
 - 🔍 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Curse  **Software Developer** on <a href="[link da sua faculdade](https://ustm.ac.mz/index.php/en)">USTM</a>.
-- 💼 &nbsp; working as **software engineer**  
+- 💼 &nbsp; working as **software engineer** On **Mediplus** 
 - 🌱 &nbsp;  Always  **learning**.
 
 
